@@ -1,0 +1,6 @@
+scikit-learn
+PyPDF2
+nltk
+pymongo
+logging
+requests
