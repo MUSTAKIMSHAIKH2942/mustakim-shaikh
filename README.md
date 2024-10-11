@@ -73,7 +73,11 @@ Benchmark results for concurrency and processing speed can be found in the outpu
 Docker Setup (Optional)
 Build Docker Image:
 
+## Watch the Solution Video
 
+[![Watch the video](https://img.youtube.com/vi/Bi-KFG8ANkI/0.jpg)](https://youtu.be/Bi-KFG8ANkI)
+
+Click the image above or [watch the video here](https://youtu.be/Bi-KFG8ANkI).
 docker build -t pdf_pipeline .
 ## Run Docker Container:                  
 
